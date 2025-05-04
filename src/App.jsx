@@ -18,14 +18,15 @@ function App() {
       <footer className="footer">
         <div className="contact-info">
           <div className="contact-item">
-            <h3>Contact</h3>
-            <p>contact@the-style.us</p>
-            <p>mporterbrown@gmail.com</p>
+            <a href="mailto:contact@the-style.us">contact@the-style.us</a>
+          </div>
+          <div className="contact-item">
             <a
-              href="https://open.spotify.com/track/0c2bo6Tf19tK7XNyHJQKzB?si=5d753b67ac814d4e"
+              href="https://www.instagram.com/thestyle___/"
               target="_blank"
-              rel="noopener noreferrer">
-                <p>Instagram</p>
+              rel="noopener noreferrer"
+            >
+              <p>Instagram</p>
             </a>
           </div>
         </div>
